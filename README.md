@@ -16,6 +16,7 @@ Este proyecto es una aplicación interactiva de preguntas tipo quiz desarrollada
 ## 📦 Estructura del proyecto
 
 .
+
 ├── main.py # Punto de entrada: maneja flujo del programa
 
 ├── data.py # Consumo de la API y extracción de preguntas
