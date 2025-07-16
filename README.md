@@ -21,6 +21,14 @@ Este proyecto es una aplicación interactiva de preguntas tipo quiz desarrollada
 
 ├── data.py # Consumo de la API y extracción de preguntas
 
+├── images/
+
+│ ├── false.png
+
+│ ├── true.png
+
+│ ├── right.png
+
 ├── question_model.py # Clase Question que representa cada pregunta
 
 ├── quiz_brain.py # Lógica del quiz (avance, respuesta, puntaje)
